@@ -1,2 +1,28 @@
 # awesome-ai-tools
+
 Compilation of cool AI tools. Maintained by Tech City Pula Association
+
+- [Copy AI](#copy-ai)
+- [FLAIR AI](#flair-ai)
+- [Illustroke](#illustroke)
+- [GitHub Copilot](#github-copilot)
+
+### Copy AI
+
+https://www.copy.ai/ \
+Ai copywriting tool.
+
+### FLAIR AI
+
+https://flair.ai/ \
+AI deisgn tool for branded content.
+
+### Illustroke
+
+https://illustroke.com/ \
+AI tool for creating illustrations.
+
+### GitHub Copilot
+
+https://github.com/features/copilot \
+AI tool for code suggestions.
