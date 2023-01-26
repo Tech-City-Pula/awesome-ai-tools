@@ -2,11 +2,16 @@
 
 Compilation of cool AI tools. Maintained by Tech City Pula Association
 
+- [Midjourney](#midjourney)
 - [Copy AI](#copy-ai)
 - [FLAIR AI](#flair-ai)
 - [Illustroke](#illustroke)
 - [GitHub Copilot](#github-copilot)
 - [Quilbot AI](#quilbot-ai)
+
+### Midjourney
+https://midjourney.gitbook.io/docs/ \
+Generate AI art
 
 ### Copy AI
 
