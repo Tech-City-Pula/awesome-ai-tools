@@ -6,6 +6,7 @@ Compilation of cool AI tools. Maintained by Tech City Pula Association
 - [FLAIR AI](#flair-ai)
 - [Illustroke](#illustroke)
 - [GitHub Copilot](#github-copilot)
+- [Quilbot AI](#quilbot-ai)
 
 ### Copy AI
 
@@ -26,3 +27,7 @@ AI tool for creating illustrations.
 
 https://github.com/features/copilot \
 AI tool for code suggestions.
+
+### Quilbot AI
+https://quillbot.com/ \
+Paraphrasing tool
