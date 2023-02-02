@@ -3,6 +3,8 @@
 Compilation of cool AI tools. Maintained by Tech City Pula Association
 
 - [Midjourney](#midjourney)
+- [InstantArt](#instantart)
+- [Dreamlike](#dreamlike)
 - [Copy AI](#copy-ai)
 - [FLAIR AI](#flair-ai)
 - [Illustroke](#illustroke)
@@ -33,7 +35,18 @@ Compilation of cool AI tools. Maintained by Tech City Pula Association
 - [Thundercontent](#thundercontent)
 
 ### Midjourney
+
 https://midjourney.gitbook.io/docs/ \
+Generate AI art
+
+### InstantArt
+
+https://instantart.io/ \
+Generate AI art
+
+### Dreamlike
+
+https://dreamlike.art/ \
 Generate AI art
 
 ### Copy AI
