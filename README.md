@@ -30,6 +30,7 @@ Compilation of cool AI tools. Maintained by Tech City Pula Association
 - [theresanaiforthat](#theresanaiforthat)
 - [Synthesia](#synthesia)
 - [descript](#descript)
+- [videos.social](#videossocial)
 - [Otter](#otter)
 - [Inkforall](#inkforall)
 - [Thundercontent](#thundercontent)
@@ -173,6 +174,11 @@ Create AI videos by simply typing in text.
 
 https://www.descript.com/ \
 New way to make video and podcasts
+
+### videos.social
+
+https://videos.social/?utm_source=tech-city-pula-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d \
+Turn blogs, PDFs, and prompts into editable faceless videos. 1 free render. Packs from $10. 1 credit = 1 render.
 
 ### Otter
 
