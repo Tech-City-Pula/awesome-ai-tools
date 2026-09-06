@@ -154,6 +154,11 @@ Remove any wanted object, defect, people, or text from your pictures in seconds
 https://www.resumeworded.com/ \
 Improve your resume and LinkedIn profile
 
+### ResumeAI
+
+https://withresumeai.com/ \
+AI resume builder with free ATS checks (3/day anonymous, 10/day free account) and State of ATS 2026 (738 employers; Workday 37.9%)
+
 ### Looka
 
 https://looka.com/ \
