@@ -30,6 +30,7 @@ Compilation of cool AI tools. Maintained by Tech City Pula Association
 - [theresanaiforthat](#theresanaiforthat)
 - [Synthesia](#synthesia)
 - [descript](#descript)
+- [LiveFaceSwap Desktop](#livefaceswap-desktop)
 - [Otter](#otter)
 - [Inkforall](#inkforall)
 - [Thundercontent](#thundercontent)
@@ -173,6 +174,11 @@ Create AI videos by simply typing in text.
 
 https://www.descript.com/ \
 New way to make video and podcasts
+
+### LiveFaceSwap Desktop
+
+https://livefaceswap.ai/desktop \
+Apply a reference face to live webcam video and send the result to compatible streaming and video-call apps through a virtual camera. Cloud processing requires internet access and usage credits.
 
 ### Otter
 
