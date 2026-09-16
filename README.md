@@ -188,3 +188,8 @@ AI content (Generation, Optimization, Performance)
 
 https://thundercontent.com/ \
 Generate Content with AI
+
+### Orkas
+
+https://orkas.ai/?source=gh_techpula \
+Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
