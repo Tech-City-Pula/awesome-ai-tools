@@ -124,6 +124,11 @@ Write high-performing cold emails at scale
 https://vidyo.ai/ \
 Make short-form vids from long-form content in just a few clicks
 
+### OrkasVideoStudio
+
+https://github.com/Orkas-AI/Orkas-VideoStudio \
+MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines.
+
 ### Maverick
 
 https://www.trymaverick.com/ \
