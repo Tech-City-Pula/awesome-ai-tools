@@ -129,6 +129,7 @@ Make short-form vids from long-form content in just a few clicks
 https://www.trymaverick.com/ \
 Generate personalized videos at scale
 
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 ### Quickchat
 
 https://www.quickchat.ai/ \
