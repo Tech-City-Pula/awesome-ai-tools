@@ -9,6 +9,7 @@ Compilation of cool AI tools. Maintained by Tech City Pula Association
 - [FLAIR AI](#flair-ai)
 - [Illustroke](#illustroke)
 - [GitHub Copilot](#github-copilot)
+- [agent-qa](#agent-qa)
 - [Quilbot AI](#quilbot-ai)
 - [Krisp](#krisp)
 - [Beatoven](#beatoven)
@@ -68,6 +69,11 @@ AI tool for creating illustrations.
 
 https://github.com/features/copilot \
 AI tool for code suggestions.
+
+### agent-qa
+
+https://vostride.com \
+Test web, Android and iOS apps through CLI/MCP, with persistent memidex memory, validated self-improvement and reviewable run evidence.
 
 ### Quilbot AI
 
