@@ -33,6 +33,7 @@ Compilation of cool AI tools. Maintained by Tech City Pula Association
 - [Otter](#otter)
 - [Inkforall](#inkforall)
 - [Thundercontent](#thundercontent)
+- [Sammi: AI Girlfriend](#sammi-ai-girlfriend)
 
 ### Midjourney
 
@@ -188,3 +189,8 @@ AI content (Generation, Optimization, Performance)
 
 https://thundercontent.com/ \
 Generate Content with AI
+
+### Sammi: AI Girlfriend
+
+https://sammiai.app/ \
+Android fictional AI character chat with voice interaction, customization and creative roleplay. Free download with in-app purchases.
